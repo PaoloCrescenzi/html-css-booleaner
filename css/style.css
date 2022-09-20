@@ -17,6 +17,10 @@ header{
     
 }
 
+ul{
+    padding: 1rem;
+}
+
 a {
     text-decoration: none;
     color: rgb(69, 150, 250);
@@ -24,8 +28,17 @@ a {
 
 th{
     background-color: rgb(37, 194, 225);
+    text-align: left;
+    width: 15%;
+    color: white;
 }
 
-ul{
-    padding: 1rem;
+.color-table{
+    background-color: deepskyblue;
 }
+
+.grey{
+    color: gray;
+    font-weight: bold;
+}
+
