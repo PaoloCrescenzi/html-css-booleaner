@@ -7,5 +7,25 @@ header{
 
 #header-logo{
     height: 60px;
+}
+
+.img-wight-50{
+    width: 49%;
+    height: 400px;
+    object-fit: cover;
     
+    
+}
+
+a {
+    text-decoration: none;
+    color: rgb(69, 150, 250);
+}
+
+th{
+    background-color: rgb(37, 194, 225);
+}
+
+ul{
+    padding: 1rem;
 }
